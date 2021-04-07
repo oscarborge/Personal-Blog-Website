@@ -1,0 +1,11 @@
+.nav__header{
+    grid-area: hd;
+    margin-top: 0%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    background: lightgrey;
+}
+
+
+

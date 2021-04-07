@@ -1,0 +1,22 @@
+.nav__footer{
+    grid-area: footer;
+    display: flex;
+    justify-content: center;
+    background: yellow;
+    color: pink;
+}
+
+h1{
+    color: hotpink;
+}
+h2{
+    color: cadetblue;
+}
+
+p{
+    color: green;
+}
+
+ul{
+    color: purple
+}
